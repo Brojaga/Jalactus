@@ -1,0 +1,7 @@
+name: Jalactus
+version: 1.0.0
+main: io.github.Brojaga.Jalactus
+description: Plugin to automatically destroy and rebuild Minecraft worlds once a player dies
+author: Brojaga
+website: https://github.com/Brojaga
+api-version: 1.19

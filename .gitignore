@@ -1,0 +1,10 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+build
+bin
+lib
+.bat
+run
+gradlew
+.vscode
+
